@@ -56,6 +56,10 @@ form {
   flex-direction: column;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .postCredit {
   font-size: 1rem;
 }
